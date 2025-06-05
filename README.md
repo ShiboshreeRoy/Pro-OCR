@@ -98,7 +98,7 @@ MIT License
 
 For feedback, suggestions, or issues, please contact:
 **Shiboshree Roy**
-Email: [shiboshreecse@gmail.com](mailto:shiboshreecse@gmail.com)
+Email: [shiboshreeroycse@gmail.com](mailto:shiboshreecseroy@gmail.com)
 
 ---
 
